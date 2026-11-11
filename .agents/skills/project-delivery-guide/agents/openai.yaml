@@ -1,0 +1,4 @@
+interface:
+  display_name: "Project Delivery Guide"
+  short_description: "Guide projects from discovery to verification"
+  default_prompt: "Use $project-delivery-guide to start a new product and ask the first material questions."
